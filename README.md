@@ -1,6 +1,5 @@
-[![MasterHead](https://liyasthomas.github.io/banner/)](https://github.com/IrisThuo)
+<h1 align="center"><b> Bright suns stormtroopers 👋 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### Bright suns stormtroopers 👋
 
 
 - 🌱 I’m currently learning Python and perfecting my more recently learned languages.
