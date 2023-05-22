@@ -8,6 +8,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IrisThuo)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=IrisThuo&show_icons=true&theme=moltack" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=IrisThuo&show_icons=true&theme=codeSTACKr" width="400">
 
 ### May the force be with you (｡▼皿▼)
