@@ -1,4 +1,4 @@
-<h1 align="center"><b> Bright suns stormtroopers </b><img src="https://giphy.com/embed/OEv4VSSLkzqs8" width="45"></h1>
+<h1 align="center"><b> Bright suns stormtroopers </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
