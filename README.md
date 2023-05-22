@@ -1,3 +1,5 @@
+[![MasterHead](https://liyasthomas.github.io/banner/)](https://github.com/IrisThuo)
+
 ### Bright suns stormtroopers 👋
 
 
@@ -7,6 +9,8 @@
 - Check this out https://skyline.github.com/iristhuo/2022 kinda cool.
 - 📫 How to reach me: email: iristhuowit@gmail.com
 
+
+### MY STATS
 
 <img src="https://github-readme-stats.vercel.app/api?username=IrisThuo&show_icons=true&theme=codeSTACKr" width="400">
 
