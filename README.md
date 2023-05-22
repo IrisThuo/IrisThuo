@@ -6,6 +6,8 @@
 - ⚡ 6 foot even........5'4 on a bad day
 - 📫 How to reach me: email: iristhuowit@gmail.com
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IrisThuo)](https://git.io/streak-stats)
+
 <img src="https://github-readme-stats.vercel.app/api?username=IrisThuo&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 ### May the force be with you (｡▼皿▼)
