@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Python and perfecting my more recently learned languages.
 - 🧿 Im really into AI and virtual reality video games.
 - ⚡ 6 foot even........5'4 on a bad day
-- Check this out https://skyline.github.com/iristhuo/2022 kinda cool.
 - 📫 How to reach me: email: iristhuowit@gmail.com
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and tools </b>
